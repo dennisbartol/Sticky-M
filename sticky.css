@@ -42,3 +42,33 @@ p {
     top: 0; 
 }
 
+
+.tabs a { 
+    text-decoration: none;
+    color: #e8e8e8; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    flex: 1;
+    letter-spacing: 1px; 
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+
+.tabs a:hover { 
+    background-color: #565f6b;
+    text-decoration: underline; 
+}
+
+section { 
+    height: 90vh; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
