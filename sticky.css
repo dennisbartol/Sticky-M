@@ -45,6 +45,7 @@ p {
 
 .tabs a { 
     text-decoration: none;
+    font-size: 1rem; 
     color: #e8e8e8; 
     display: flex; 
     justify-content: center; 
