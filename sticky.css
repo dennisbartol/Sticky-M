@@ -11,6 +11,17 @@ body {
 }
 
 
+#header { 
+    height: 100vh; 
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-inline: 1rem; 
+    position: relative; 
+    text-align: center;
+}
+
 h2 { 
     color:  #565f6b /* gold */;
     margin-top: 1.75rem;
