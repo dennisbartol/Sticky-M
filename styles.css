@@ -21,6 +21,10 @@ body {
     text-align: center;
 }
 
+h1 { 
+    letter-spacing: 1px; 
+}
+
 h2 { 
     color:  #565f6b /* gold */;
     margin-top: 1.75rem;
