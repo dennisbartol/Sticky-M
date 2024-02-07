@@ -83,3 +83,8 @@ section {
     align-items: center;
 }
 
+@media screen (max-width: 600px) {
+    h1 {
+        letter-spacing: 0px; 
+    }
+}
