@@ -84,7 +84,7 @@ section {
 }
 
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 600px) {
     .tabs a {
         font-size: 10px;
         letter-spacing: 0;
