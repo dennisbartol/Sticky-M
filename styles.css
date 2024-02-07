@@ -87,4 +87,18 @@ section {
     h1 {
         letter-spacing: 0px; 
     }
+
+.tabs a { 
+    text-decoration: none;
+    color: #e8e8e8; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    flex: 1;
+    letter-spacing: 0px; 
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+    
 }
